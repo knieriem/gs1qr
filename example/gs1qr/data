@@ -1,0 +1,5 @@
+# example from https://github.com/bwipp/postscriptbarcode/wiki/GS1-QR-Code
+GTIN	03453120000011
+PRODUCT URL	http://abc.net
+BATCH/LOT	XYZ
+SHIP TO LOC	9501101020917
